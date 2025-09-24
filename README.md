@@ -7,6 +7,14 @@ The objective is to uncover hidden patterns and generate insights that can help 
 
 The analysis combines trading data (PnL, trading volume, fees, trader activity) with sentiment data (Fear/ Neutral/ Greed/ Extreme greed/ Extreme fear classifications).
 
+📁 Dataset 
+
+**Historical data** - https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+
+**Fear greed data** - https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+
+ 
+
 🔍 Key Objectives
 
 Explore how market sentiment affects trader performance.
