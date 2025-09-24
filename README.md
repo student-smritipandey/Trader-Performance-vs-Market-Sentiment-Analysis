@@ -76,22 +76,6 @@ Fees tend to increase with trading volume, but not always with higher profits.
 
 Yesterday’s sentiment can sometimes predict today’s performance → potential trading signal.
 
-🚀 How to Run
-
-Clone this repo: 
-
-git clone https://github.com/your-username/trader-sentiment-analysis.git
-cd trader-sentiment-analysis
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the analysis:
-
-python analysis.py
 
 🎯 Business Value
 
@@ -106,4 +90,4 @@ Suggests how volume/fees efficiency can be improved.
 👩‍💻 Author
 
 Smriti Pandey
-📍 B.Tech CSE (AI & ML) | GTBIT
+📍 B.Tech CSE (AIML) | GTBIT
