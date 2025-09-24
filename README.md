@@ -5,13 +5,13 @@
 **This project explores the relationship between trader performance and market sentiment.
 The objective is to uncover hidden patterns and generate insights that can help design smarter trading strategies.**
 
-The analysis combines trading data (PnL, trading volume, fees, trader activity) with sentiment data (positive/negative/neutral classifications).
+The analysis combines trading data (PnL, trading volume, fees, trader activity) with sentiment data (Fear/ Neutral/ Greed/ Extreme greed/ Extreme fear classifications).
 
 🔍 Key Objectives
 
 Explore how market sentiment affects trader performance.
 
-Compare PnL across sentiment types (positive, negative, neutral).
+Compare PnL across sentiment types (Fear/ Neutral/ Greed/ Extreme greed/ Extreme fear classifications).
 
 Check for lag effects (does yesterday’s sentiment impact today’s PnL?).
 
@@ -34,7 +34,7 @@ Scikit-learn – Clustering (KMeans), standardization
 
 Convert timestamps into daily dates
 
-Aggregate trader performance per day (PnL, volume, fees, active accounts)
+Aggregate trader performance per day (PnL, Size, fees, active accounts)
 
 Merge trader performance with sentiment data
 
